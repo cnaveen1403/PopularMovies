@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="poster_width">185px</dimen>
+    <dimen name="poster_height">278px</dimen>
+</resources>

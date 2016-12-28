@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+
+    <string name="sync_account_type">popularmovies.naveen.android.com</string>
+    <string name="content_authority">com.android.naveen.popularmovies.app</string>
+    <string name="content_authority_trailers">com.android.naveen.popularmovies.app.trailers</string>
+    <string name="content_authority_reviews">com.android.naveen.popularmovies.app.reviews</string>
+    <string name="content_authority_favorites">com.android.naveen.popularmovies.app.favorites</string>
+
+    <string name="unknown_release_date">Unknown</string>
+    <string name="unknown_vote_average">Unknown</string>
+
+    <string name="action_sort_by_popular">Most popular</string>
+    <string name="action_sort_by_rating">Highest-rated</string>
+    <string name="action_show_favorites">Favorites</string>
+    <string name="action_add_to_favorites">Add to Favorites</string>
+    <string name="action_share_trailer">Share first trailer</string>
+
+    <string name="toast_add_to_favorites">Added \"{0}\" to favorites.</string>
+
+    <string name="tmdb_popular_url">http://api.themoviedb.org/3/movie</string>
+    <string name="tmdb_poster_url">http://image.tmdb.org/t/p/w185</string>
+    <string name="tmdb_trailer_url">http://api.themoviedb.org/3/movie/{0}/videos</string>
+    <string name="tmdb_review_url">http://api.themoviedb.org/3/movie/{0}/reviews</string>
+    <string name="youtube_watch_url">http://www.youtube.com/watch?v={0}</string>
+    <string name="youtube_thumbnail_url">http://img.youtube.com/vi/{0}/default.jpg</string>
+
+</resources>
